@@ -18,6 +18,7 @@ TagManager:
   - Terrain
   - Collision
   - LootBox
+  - FxTemporaire
   layers:
   - Default
   - TransparentFX
